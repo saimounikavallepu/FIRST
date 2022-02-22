@@ -1,4 +1,7 @@
 #!/bin/bash
 
-echo " HEY PILLAGADA,\n YENDHIROY PILLAGADA"
+echo -e " HEY PILLAGADA,\n YENDHIROY PILLAGADA"
+
+Name=$gorjella
+echo Name
 
