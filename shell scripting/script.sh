@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/bin/bash
 
 echo " HEY PILLAGADA,\n YENDHIROY PILLAGADA"
 
